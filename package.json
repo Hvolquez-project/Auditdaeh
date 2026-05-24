@@ -1,0 +1,13 @@
+{
+  "name": "daeh-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard ejecutivo de entrevistas DAEH — Hvolquez Consulting Services",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
